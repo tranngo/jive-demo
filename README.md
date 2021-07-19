@@ -1,5 +1,7 @@
 # Jive Demo
 
+https://drive.google.com/drive/u/0/folders/1-Kbej_lyBYIe0OGPkk15tmIyu_CaBKGS
+
 ## Inspiration
 A major problem with music streaming giants like Spotify and Apple Music is that popular artists drown out smaller artists on the platform. To put things in perspective, on Spotify, the primary way people discover artists is through featured playlists but unfortunately the top 10% of artists (who constitute 99% of streams) dominate 81% of the top 100 playlists. However, we've seen how TikTok has provides a new format for artist discovery (i.e. a discovery feed that supports video) that has enabled new songs to go viral and empowered artists to gain a massive following. The issue, however, is that artists have a difficult time converting their TikTok following to music streaming platforms like Spotify and compete with non-artists. Our goal is to create a new music streaming experience to give smaller artists a voice and increase social interaction around music.
 
