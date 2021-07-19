@@ -15,7 +15,7 @@ When Tré and I began the project, Tré had no experience developing mobile appl
 ## Accomplishments I'm proud of
 * Developed interface using Figma with no prior experience in UI/UX design
 * Gained experience coming up with a business plan and pitching the idea to people
-* Learned about React Native animations
+* Learned how to implement animations in React Native
 
 ## What I've learned
 I learned a lot throughout the project's development. For one, I learned that I can build solutions to problems I'm passionate about through perseverance and dedication even if I don't think I have the resources or knowledge. I also gained more experience working with AWS.
