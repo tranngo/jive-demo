@@ -21,4 +21,6 @@ When Tré and I began the project, Tré had no experience developing mobile appl
 I learned a lot throughout the project's development. For one, I learned that I can build solutions to problems I'm passionate about through perseverance and dedication even if I don't think I have the resources or knowledge. I also gained more experience working with AWS.
 
 ## What's next for Jive
+* Badges for users
+* Livestreaming
 The frontend and backend are developed separately. We're almost at the point where we can integrate the front-end and back-end to allow artists to take/upload pictures and videos. Afterwards, we can begin to build out the music streaming portion of the application. We're also currently seeking legal guidance to become DMCA compliant and hope to release a beta version soon.
