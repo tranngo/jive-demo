@@ -12,7 +12,7 @@ Artists can submit text, image, and video posts through their profile which will
 I designed the interface using Figma. Tré and I built the platform using React Native for the front-end and Django for the back-end (deployed on AWS).
 
 ## Challenges we ran into
-When Tré and I began the project, Tré had no experience developing mobile applications with React Native and Django. To overcome this, I spent time a lot of time pair programming with Tré to onboard him. Additionally, neither Tré nor I have experience with UI/UX design. However, after browsing through various online resources, I was able to figure out how to use Figma to design our high-fidelity mockups. Another challenge we ran into was sorting out the legalities of music intellectual property. We overcame this by reaching out to Professor Pearlman from USC's Intellectual Property & Technology Law Clinic.
+When Tré and I began the project, Tré had no experience developing mobile applications with React Native and Django. To overcome this, I spent time a lot of time pair programming with Tré to onboard him. Additionally, neither of us had experience with UI/UX design. However, after browsing through various online resources, I was able to figure out how to use Figma to design our high-fidelity mockups. Another challenge we ran into was navigating the laws for music intellectual property. We overcame this by reaching out to Professor Pearlman from USC's Intellectual Property & Technology Law Clinic.
 
 ## Accomplishments I'm proud of
 * Developed interface using Figma with no prior experience in UI/UX design
